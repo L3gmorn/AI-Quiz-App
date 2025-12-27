@@ -1,0 +1,20 @@
+
+body {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #5D59E3;
+}
+
+button {
+    font-size: 2rem;
+    background-color: #3934E3;
+    color: #E3E1EB;
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+}
+
+button.categories {
+    align-items: center;
+}
