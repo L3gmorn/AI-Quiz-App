@@ -15,21 +15,23 @@ a {
     text-decoration: none;
 }
 
-button.categories {
+button.Categories {
     align-items: center;
 }
 
 nav ul {
     list-style-type: none;
+    text-align: center;
 }
 
 nav li {
-    display: inline;
+    display: inline-block;
     padding-left: 1rem;
     padding-right: 1rem ;
     margin-left: 1rem;
     margin-right: 1rem;
     text-align: center;
+    border: 1px solid blue;
 }
 
 nav a {
