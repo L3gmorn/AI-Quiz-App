@@ -21,14 +21,13 @@ button.Categories {
 
 nav ul {
     list-style-type: none;
-    text-align: center;
+    display: flex;
 }
 
 nav li {
     display: inline-block;
     padding: 0 1rem 0 1rem;
     margin: 0 1rem 0 1rem;
-    text-align: center;
     border: 1px solid blue;
 }
 
@@ -38,7 +37,7 @@ nav a {
 }
 
 #logo_nav {
-    margin-right: 10rem;
+
 }
 /* Using borders to track elements */
 
