@@ -15,6 +15,44 @@ a {
     text-decoration: none;
 }
 
-button.categories {
+button.Categories {
     align-items: center;
 }
+
+nav ul {
+    list-style-type: none;
+    display: flex;
+}
+
+nav li {
+    display: inline-block;
+    padding: 0 1rem 0 1rem;
+    margin: 0 1rem 0 1rem;
+    border: 1px solid blue;
+}
+
+nav a {
+    color: #E3E1EB;
+    font-size: 2rem;
+}
+
+#logo_nav {
+
+}
+/* Using borders to track elements */
+
+/*
+
+nav {
+    border: 3px solid red;
+}
+
+nav ul li {
+    border: 3px dashed green;
+}
+
+nav ul li a {
+    border: 3px dotted white;
+}
+
+*/
